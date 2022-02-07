@@ -1,4 +1,4 @@
-# DKIDE - An IntelliJ plugin for editing Recipes.
+# DKIDE - An IntelliJ plugin for working with DataKitchen's Platform Recipes.
 
 ![screenshot.png](screenshot.png)
 
