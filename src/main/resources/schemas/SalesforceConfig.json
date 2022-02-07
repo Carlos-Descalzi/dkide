@@ -1,0 +1,12 @@
+{
+  "type" : "object",
+  "properties" : {
+    "sfdc_username" : { "type" :  "string" , "description" :  "User name"},
+    "sfdc_password" : { "type" :  "string" , "description" :  "Password"},
+    "sfdc_security_token" : { "type" :  "string" , "description" :  "Security Token"},
+    "sfdc_client_id" : { "type" :  "string" , "description" :  "Client ID"},
+    "sfdc_client_secret" : { "type" :  "string" , "description" :  "Client Secret"},
+    "sfdc_instance_url" : { "type" :  "string" , "description" :  "Instance URL"}
+  },
+  "required" : ["sfdc_username","sfdc_password","sfdc_security_token","sfdc_client_id","sfdc_client_secret","sfdc_instance_url"]
+}

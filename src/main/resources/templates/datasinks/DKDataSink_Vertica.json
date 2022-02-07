@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "type": "DKDataSink_Vertica",
+  "config": {
+    "username": "",
+    "password": "",
+    "hostname": "",
+    "port": 2,
+    "database": ""
+  },
+  "keys": {},
+  "tests" : {}
+}

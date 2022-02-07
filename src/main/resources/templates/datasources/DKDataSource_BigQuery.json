@@ -1,0 +1,17 @@
+{
+  "type" : "DKDataSource_BigQuery",
+  "name" : "",
+  "config" : {
+    "service-account" : "",
+    "private-key": "",
+    "project-id": ""
+  },
+  "keys" : {
+    "key1": {
+      "sql": "",
+      "query-type": "execute_query",
+      "format": "binary"
+    }
+  },
+  "tests" : {}
+}

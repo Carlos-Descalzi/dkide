@@ -1,0 +1,10 @@
+{
+  "type" : "object",
+  "properties" : {
+    "username" : { "type" :  "string" , "description" :  "User name"},
+    "password" : { "type" :  "string" , "description" :  "Password"},
+    "account" : { "type" :  "string" , "description" :  "Account"},
+    "warehouse" : { "type" :  "string" , "description" :  "Warehouse"}
+  },
+  "required" : ["username","password","account","warehouse"]
+}

@@ -1,0 +1,11 @@
+{
+  "type" : "object",
+  "properties" : {
+    "hostname" : { "type" :  "string" , "description" :  "Host Name"},
+    "port" : { "type" :  "string" , "description" :  "Port"},
+    "username" : { "type" :  "string" , "description" :  "User Name"},
+    "password" : { "type" :  "string" , "description" :  "Password"},
+    "passive" : { "type" :  "boolean" , "description" :  "Passive Mode"}
+  },
+  "required" : ["hostname", "username","username","password"]
+}

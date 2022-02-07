@@ -1,0 +1,8 @@
+{
+  "image-repo": "",
+  "image-tag": "",
+  "dockerhub-namespace": "",
+  "dockerhub-username": "",
+  "dockerhub-password": "",
+  "tests": {}
+}

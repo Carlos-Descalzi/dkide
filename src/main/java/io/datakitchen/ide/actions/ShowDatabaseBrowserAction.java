@@ -1,0 +1,20 @@
+package io.datakitchen.ide.actions;
+
+import com.intellij.openapi.actionSystem.AnAction;
+import com.intellij.openapi.actionSystem.AnActionEvent;
+import com.intellij.ui.content.impl.ContentImpl;
+import io.datakitchen.ide.tools.sql.DatabaseTreeView;
+import io.datakitchen.ide.util.ToolWindowUtil;
+import org.jetbrains.annotations.NotNull;
+
+import java.util.List;
+
+public class ShowDatabaseBrowserAction extends AnAction {
+    @Override
+    public void actionPerformed(@NotNull AnActionEvent e) {
+        ToolWindowUtil.show(
+                "sql-browser",
+                e.getProject(),
+                List.of(new ContentImpl(new DatabaseTreeView(e.getProject()), "", false)));
+    }
+}

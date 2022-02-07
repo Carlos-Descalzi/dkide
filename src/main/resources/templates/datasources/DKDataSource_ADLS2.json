@@ -1,0 +1,11 @@
+{
+  "name": "",
+  "type": "DKDataSource_ADLS2",
+  "config": {
+    "connection_string": "",
+    "filesystem": ""
+  },
+  "keys": {
+  },
+  "tests" : {}
+}

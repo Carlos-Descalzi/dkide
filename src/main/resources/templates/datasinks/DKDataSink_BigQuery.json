@@ -1,0 +1,12 @@
+{
+  "type" : "DKDataSink_BigQuery",
+  "name" : "",
+  "config" : {
+    "service-account" : "",
+    "private-key": "",
+    "project-id": ""
+  },
+  "keys" : {},
+  "tests" : {}
+
+}

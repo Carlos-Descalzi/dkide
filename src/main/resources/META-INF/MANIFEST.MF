@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: jung-visualization-2.1.1.jar jung-api-2.1.1.jar guava-19.0.j
+ ar jung-algorithms-2.1.1.jar jinjava-2.5.9.jar slf4j-api-1.7.25.jar gua
+ va-25.0-jre.jar checker-compat-qual-2.0.0.jar error_prone_annotations-2
+ .1.3.jar j2objc-annotations-1.1.jar animal-sniffer-annotations-1.14.jar
+  javassist-3.24.1-GA.jar jsoup-1.10.3.jar re2j-1.2.jar commons-lang3-3.
+ 9.jar commons-net-3.3.jar java-ipv6-0.17.jar annotations-3.0.1.jar jack
+ son-annotations-2.7.9.jar jackson-databind-2.7.9.5.jar jackson-core-2.7
+ .9.jar jackson-dataformat-yaml-2.7.9.jar snakeyaml-1.15.jar big-math-2.
+ 0.0.jar jung-api-2.1.1.jar guava-19.0.jar jung-algorithms-2.1.1.jar jun
+ g-api-2.1.1.jar guava-19.0.jar
+

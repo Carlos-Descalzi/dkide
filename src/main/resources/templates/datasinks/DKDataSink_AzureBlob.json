@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "type": "DKDataSink_AzureBlob",
+  "config": {
+    "connection_string": "",
+    "container": ""
+  },
+  "keys": {}
+}

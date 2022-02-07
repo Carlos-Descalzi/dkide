@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "type": "DKDataSource_FTP",
+  "config": {
+    "username": "",
+    "hostname": "",
+    "port": 1,
+    "password": ""
+  },
+  "keys": {
+  },
+  "tests" : {}
+}

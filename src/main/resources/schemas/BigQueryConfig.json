@@ -1,0 +1,9 @@
+{
+  "type" : "object",
+  "properties" : {
+    "service-account" : { "type" :  "string" , "description" :  "Service Account"},
+    "private-key" : { "type" :  "string" , "description" :  "Private Key"},
+    "project-id" : { "type" :  "string" , "description" :  "Project ID"}
+  },
+  "required" : ["service-account","private-key","project-id"]
+}

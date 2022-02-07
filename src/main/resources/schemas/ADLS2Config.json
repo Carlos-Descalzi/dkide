@@ -1,0 +1,8 @@
+{
+  "type" : "object",
+  "properties" : {
+    "connection_string" : { "type" :  "string" , "description" :  "Connection String"},
+    "filesystem" : { "type" :  "string" , "description" :  "Filesystem"}
+  },
+  "required" : ["connection_string", "filesystem"]
+}

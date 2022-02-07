@@ -1,0 +1,8 @@
+{
+  "type" : "object",
+  "properties" : {
+    "connection_string" : { "type" :  "string" , "description" :  "Connection String"},
+    "container" : { "type" :  "string" , "description" :  "Container"}
+  },
+  "required" : ["connection_string", "container"]
+}

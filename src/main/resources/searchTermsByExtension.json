@@ -1,0 +1,26 @@
+{
+  "py" : {
+    "search-term" : "python",
+    "command" : "python3 docker-share/%s"
+  },
+  "jar" : {
+    "search-term" : "openjdk",
+    "command" : "java -jar docker-share/%s"
+  },
+  "sh" : {
+    "search-term" : "linux operating systems",
+    "command" : "bash -c docker-share/%s"
+  },
+  "R" : {
+    "search-term" : "r-base",
+    "command" : "Rscript docker-share/%s"
+  },
+  "rb" : {
+    "search-term" : "ruby",
+    "command" : "ruby docker-share/%s"
+  },
+  "ps1" : {
+    "search-term" : "powershell microsoft",
+    "command" : "docker-share/%s"
+  }
+}

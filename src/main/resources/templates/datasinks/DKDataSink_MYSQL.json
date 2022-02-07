@@ -1,0 +1,13 @@
+{
+  "type" : "DKDataSink_MYSQL",
+  "name" : "",
+  "config" : {
+    "username" : "",
+    "password": "",
+    "hostname": "",
+    "database": ""
+  },
+  "keys" : {},
+  "tests" : {}
+
+}

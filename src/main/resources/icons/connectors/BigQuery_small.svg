@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="image" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" width="16" height="16" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill-opacity:7.000000e-02;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<title>Google BigQuery</title>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="20566.2852" y1="9156.5811" x2="20566.2852" y2="9157.4717" gradientTransform="matrix(80 0 0 70 -1645253 -640942)">
+	<stop  offset="0" style="stop-color:#4387FD"/>
+	<stop  offset="1" style="stop-color:#4683EA"/>
+</linearGradient>
+<path class="st0" d="M84.7,52.2c0.9-1.3,0.9-3.1,0-4.5L68.9,20.6c-0.8-1.2-2.1-1.8-3.6-1.8H34.2c-1.4,0-2.8,0.6-3.6,1.8L14.8,47.8
+	c-0.9,1.3-0.9,3.1,0,4.5l15.8,27.2c0.8,1.2,2.1,1.8,3.6,1.8h31.2c1.4,0,2.8-0.6,3.6-1.8L84.7,52.2z"/>
+<path class="st1" d="M65.4,81.2h-2.7L40.9,59.4l-2.7-11.6l5.8-8h14.3l21.4,21.4L68.9,79.4C68.1,80.6,66.8,81.2,65.4,81.2z"/>
+<path class="st2" d="M60.6,58.1c4.5-5.9,3.3-14.3-2.6-18.7S43.8,36.1,39.4,42s-3.3,14.3,2.6,18.7c4.8,3.7,11.4,3.6,16.2-0.1l4.9,4.9
+	c0.2,0.3,0.5,0.4,0.8,0.1c0.1,0,0.1-0.1,0.1-0.1l1.6-1.6c0.3-0.2,0.4-0.5,0.1-0.8c0-0.1-0.1-0.1-0.1-0.1L60.6,58.1z M40,50
+	c-0.1-5.4,4.2-9.9,9.5-10c5.4-0.2,10,4.1,10.1,9.5c0.1,5.4-4.2,9.9-9.5,10c-0.1,0-0.2,0-0.2,0C44.4,59.6,40.1,55.3,40,50L40,50z"/>
+<path class="st2" d="M43.7,52.9c0.7,1.3,1.7,2.3,2.9,3.1v-6.7h-2.9L43.7,52.9C43.8,52.9,43.7,52.9,43.7,52.9z"/>
+<path class="st2" d="M48.4,56.8c0.4,0.1,0.9,0.1,1.3,0.2c0.4,0,0.9,0,1.3-0.1V46h-2.7V56.8z"/>
+<path class="st2" d="M53.1,55.5c1.3-0.9,2.4-2.1,3.1-3.6v-1.6h-3.1V55.5z"/>
+</svg>

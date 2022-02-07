@@ -1,0 +1,11 @@
+{
+  "type" : "object",
+  "properties" : {
+    "hostname" : { "type" :  "string" , "description" :  "Host Name"},
+    "port" : { "type" :  "string" , "description" :  "Port"},
+    "username" : { "type" :  "string" , "description" :  "User Name"},
+    "pem_file" : { "type" :  "string" , "description" :  "PEM File"},
+    "password" : { "type" :  "string" , "description" :  "Password"}
+  },
+  "required" : ["hostname", "username"]
+}

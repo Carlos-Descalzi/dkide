@@ -1,0 +1,10 @@
+{
+  "name": "s6",
+  "type": "DKDataSink_ADLS2",
+  "config": {
+    "connection_string": "",
+    "filesystem": ""
+  },
+  "keys": {},
+  "tests": {}
+}

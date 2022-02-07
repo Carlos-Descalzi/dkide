@@ -1,0 +1,19 @@
+{
+  "name": "source",
+  "type": "DKDataSource_PostgreSQL",
+  "config": {
+    "username": "",
+    "password": "",
+    "hostname": "",
+    "port": "",
+    "database": ""
+  },
+  "keys": {
+    "key1": {
+      "sql": "",
+      "query-type": "execute_query",
+      "format": "binary"
+    }
+  },
+  "keys": {}
+}

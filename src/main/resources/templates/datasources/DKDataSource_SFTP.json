@@ -1,0 +1,14 @@
+{
+  "name": "s9",
+  "type": "DKDataSource_SFTP",
+  "config": {
+    "username": "",
+    "hostname": "",
+    "port": 22,
+    "pem_file": ""
+  },
+  "keys": {
+  },
+  "tests" : {}
+
+}

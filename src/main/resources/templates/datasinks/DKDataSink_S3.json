@@ -1,0 +1,15 @@
+{
+  "name": "sink",
+  "type": "DKDataSink_S3",
+  "config": {
+    "access-key": "",
+    "secret-key": "",
+    "bucket": ""
+  },
+  "keys": {
+    "mapping1_sink": {
+      "file-key": "filepath",
+      "use-only-file-key": true
+    }
+  }
+}

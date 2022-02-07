@@ -1,0 +1,18 @@
+{
+  "name": "sink",
+  "type": "DKDataSink_Snowflake",
+  "config": {
+    "account": "",
+    "warehouse": "",
+    "username": "",
+    "password": ""
+  },
+  "keys": {
+    "mapping1_sink": {
+      "query-type": "bulk_insert",
+      "table-name": "dummy",
+      "format": "binary"
+    }
+  },
+  "tests": {}
+}

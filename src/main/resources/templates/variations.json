@@ -1,0 +1,26 @@
+{
+  "variation-list": {
+    "variation-1": {
+      "graph-setting": "graph-1",
+      "schedule-setting": "schedule-1"
+    }
+  }
+,
+  "graph-setting-list": {
+    "graph-1": [
+
+    ]
+  }
+,
+  "override-setting-list": {
+    "default": {
+      "var1": ""
+    }
+
+  }
+,
+  "schedule-setting-list": {
+    "schedule-1": {
+    }
+  }
+}

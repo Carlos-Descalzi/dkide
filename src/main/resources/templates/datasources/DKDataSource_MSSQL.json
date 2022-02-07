@@ -1,0 +1,19 @@
+{
+  "type" : "DKDataSource_MSSQL",
+  "name" : "",
+  "config" : {
+    "username" : "",
+    "password": "",
+    "hostname": "",
+    "database": ""
+  },
+  "keys" : {
+    "key1": {
+      "sql": "",
+      "query-type": "execute_query",
+      "format": "binary"
+    }
+  },
+  "tests" : {}
+
+}

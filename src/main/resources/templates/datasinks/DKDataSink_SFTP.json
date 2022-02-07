@@ -1,0 +1,12 @@
+{
+  "name": "",
+  "type": "DKDataSink_SFTP",
+  "config": {
+    "username": "",
+    "hostname": "",
+    "port": 22,
+    "password": ""
+  },
+  "keys": {},
+  "tests": {}
+}

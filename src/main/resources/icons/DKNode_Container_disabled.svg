@@ -1,0 +1,8 @@
+<svg version="1.1" id="image" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+     viewBox="0 0 100 100" width="16" height="16" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<title>Container Node</title>
+	<circle cx="50" cy="50" r="50" fill="grey"/>
+
+	<path d="M50,15l27.8,16.8L50,48.4L21.9,31.8L50,15z M20,36.6l27,16.1V85L20,68.9V36.6z M80,36.6L52.9,52.7V85l27.2-16.1
+	V36.6H80z"/>
+</svg>

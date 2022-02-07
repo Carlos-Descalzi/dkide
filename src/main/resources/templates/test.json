@@ -1,0 +1,9 @@
+{
+  "test-variable" : "[VARIABLE NAME]",
+  "action" : "stop-on-error",
+  "type" : "test-contents-as-default",
+  "test-logic" : {
+    "test-compare" : "equal-to",
+    "test-metric" : "[METRIC]"
+  }
+}

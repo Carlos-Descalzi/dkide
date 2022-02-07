@@ -1,0 +1,19 @@
+{
+  "name": "sink",
+  "type": "DKDataSink_PostgreSQL",
+  "config": {
+    "username": "",
+    "password": "",
+    "hostname": "",
+    "port": "",
+    "database": ""
+  },
+  "keys": {
+    "mapping1_sink": {
+      "query-type": "",
+      "table-name": "",
+      "format": "binary"
+    }
+  },
+  "tests": {}
+}

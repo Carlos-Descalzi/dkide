@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="dkide.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dkide_main_jar</output-path>
+    <root id="root">
+      <element id="archive" name="dkide.main.jar">
+        <element id="module-output" name="dkide.main" />
+      </element>
+    </root>
+  </artifact>
+</component>

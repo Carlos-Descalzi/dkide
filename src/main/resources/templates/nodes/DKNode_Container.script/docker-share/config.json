@@ -1,0 +1,12 @@
+{
+  "apt-dependencies": [],
+  "dependencies": [],
+  "keys": {
+    "run": {
+      "script": "main.py",
+      "parameters": {},
+      "environment" : {},
+      "export": []
+    }
+  }
+}

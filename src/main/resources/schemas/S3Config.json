@@ -1,0 +1,9 @@
+{
+  "type" : "object",
+  "properties" : {
+    "access-key" : { "type" :  "string" , "description" :  "Access Key"},
+    "secret-key" : { "type" :  "string" , "description" :  "Secret Key"},
+    "bucket" : { "type" :  "string" , "description" :  "Bucket"}
+  },
+  "required" : ["access-key", "secret-key","bucket"]
+}

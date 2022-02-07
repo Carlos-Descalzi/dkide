@@ -1,0 +1,11 @@
+{
+  "name": "s4",
+  "type": "DKDataSource_AzureBlob",
+  "config": {
+    "connection_string": "",
+    "container": ""
+  },
+  "keys": {
+  },
+  "tests" : {}
+}

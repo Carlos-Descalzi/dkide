@@ -1,0 +1,19 @@
+{
+  "name": "source",
+  "type": "DKDataSource_Snowflake",
+  "config": {
+    "account": "",
+    "warehouse": "",
+    "username": "",
+    "password": ""
+  },
+  "keys": {
+    "key1": {
+      "sql": "select * from dummy",
+      "query-type": "execute_query",
+      "format": "binary"
+    }
+  },
+  "tests": {
+  }
+}

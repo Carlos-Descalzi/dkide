@@ -1,0 +1,9 @@
+{
+  "type" : "object",
+  "properties" : {
+    "username" : { "type" :  "string" , "description" :  "User name"},
+    "password" : { "type" :  "string" , "description" :  "Password"},
+    "hostname" : { "type" :  "string" , "description" :  "Host Name"}
+  },
+  "required" : ["username","password","hostname"]
+}

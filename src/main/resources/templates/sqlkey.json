@@ -1,0 +1,9 @@
+{
+  "query-type" : "execute_query",
+  "format" : "binary",
+  "sql" : "SELECT 1",
+  "set-runtime-vars" : {
+    "row_count" : "row_count",
+    "column_count" : "column_count"
+  }
+}

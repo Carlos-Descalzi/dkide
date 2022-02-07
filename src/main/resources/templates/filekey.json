@@ -1,0 +1,9 @@
+{
+  "file-key" : "[FILE PATH]",
+  "use-only-file-key" : true,
+  "set-runtime-vars" : {
+    "size" : "size",
+    "sha" : "sha",
+    "md5" : "md5"
+  }
+}

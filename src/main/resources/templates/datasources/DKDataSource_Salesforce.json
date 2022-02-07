@@ -1,0 +1,11 @@
+{
+  "name": "",
+  "type": "DKDataSource_Salesforce",
+  "config": {
+    "sfdc_username": "",
+    "sfdc_password": "",
+    "sfdc_security_token": ""
+  },
+  "keys": {},
+  "tests": {}
+}

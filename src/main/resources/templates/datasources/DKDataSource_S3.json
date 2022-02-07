@@ -1,0 +1,16 @@
+{
+  "name": "source",
+  "type": "DKDataSource_S3",
+  "config": {
+    "access-key": "",
+    "secret-key": "",
+    "bucket": ""
+  },
+  "keys": {
+    "key1": {
+      "file-key": "filepath",
+      "use-only-file-key": true
+    }
+  },
+  "tests": {}
+}

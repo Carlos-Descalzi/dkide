@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "type": "DKDataSource_Dictionary",
+  "config": {
+    "bucket-name": ""
+  },
+  "keys": {
+  }
+
+}

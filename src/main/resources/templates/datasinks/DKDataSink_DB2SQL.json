@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "type": "DKDataSink_DB2SQL",
+  "config": {
+    "username": "",
+    "password": "",
+    "hostname": "",
+    "port": 1,
+    "database": ""
+  },
+  "keys": {},
+  "tests" : {}
+
+}

@@ -1,0 +1,10 @@
+{
+  "image-repo": "dk_general_purpose_container",
+  "image-tag": "latest",
+  "dockerhub-namespace": "datakitchenprod",
+  "dockerhub-username": "",
+  "dockerhub-password": "",
+  "tests": {
+  }
+
+}

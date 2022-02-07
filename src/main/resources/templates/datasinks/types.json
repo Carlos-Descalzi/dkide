@@ -1,0 +1,18 @@
+{
+  "DKDataSink_BigQuery": "Database - BigQuery",
+  "DKDataSink_MSSQL": "Database - MSSQL",
+  "DKDataSink_MYSQL": "Database - MYSQL",
+  "DKDataSink_Oracle": "Database - Oracle",
+  "DKDataSink_PostgreSQL": "Database - PostgreSQL",
+  "DKDataSink_Snowflake": "Database - Snowflake",
+  "DKDataSink_DB2SQL" : "Database - DB2",
+  "DKDataSink_Teradata" : "Database - Teradata",
+  "DKDataSink_Vertica" : "Database - Vertica",
+  "DKDataSink_FTP" : "File - FTP",
+  "DKDataSink_SFTP" : "File - SFTP",
+  "DKDataSink_S3": "File - S3",
+  "DKDataSink_GCS" : "File - Google Cloud Storage",
+  "DKDataSink_ADLS2" : "File - Azure Data Lake",
+  "DKDataSink_AzureBlob" : "File - Azure Blob",
+  "DKDataSink_Dictionary" : "Others - Dictionary"
+}

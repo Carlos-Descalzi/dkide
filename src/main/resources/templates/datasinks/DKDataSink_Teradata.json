@@ -1,0 +1,11 @@
+{
+  "name": "",
+  "type": "DKDataSink_Teradata",
+  "config": {
+    "username": "",
+    "password": "",
+    "hostname": ""
+  },
+  "keys": {},
+  "tests": {}
+}
