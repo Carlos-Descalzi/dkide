@@ -3,10 +3,8 @@
 ![screenshot.png](screenshot.png)
 
 ## Requirements
-- JDK/OpenJDK 11 
+- IntalliJ 2021.2.1
 - Docker
-- DKCloudCommand
 - Python >= 3.8
-
-## Documentation
-https://datakitchen.atlassian.net/wiki/spaces/DK/pages/2780102657/IntelliJ+Plugin+for+Recipes+A.K.A+DK-IDE
+- DKCloudCommand (pip3 install DKCloudCommand)
+- Python Community Edition Plugin
